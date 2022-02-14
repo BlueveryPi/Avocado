@@ -1,5 +1,5 @@
 # Avocado
-Avocado-A esoteric language.    
+Avocado-An Turing Complete esoteric language.    
 우리집 아보카도가 쑥쑥 자라기를 바라며 만들었습니다.    
     
 아: 포인터 오른쪽으로 한칸 이동    
