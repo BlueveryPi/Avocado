@@ -15,3 +15,5 @@ Avocado-An Turing Complete esoteric language.
 인터프리터는 Python3로 작성하였으며, 사용은 알아서 PATH에 추가하신 후    
 avocado hello_world.avo    
 처럼 사용하시면 됩니다
+    
+04/29 화분에서 기르던 아보카도 줄기 길이 5cm 초과. 성장에 불붙음
