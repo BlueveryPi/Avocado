@@ -16,4 +16,5 @@ Avocado-An Turing Complete esoteric language.
 avocado hello_world.avo    
 처럼 사용하시면 됩니다
     
-04/29 화분에서 기르던 아보카도 줄기 길이 5cm 초과. 성장에 불붙음
+03/29 화분에서 기르던 아보카도 줄기 길이 5cm 초과. 성장에 불붙음    
+04/15 화분에서 기르는 아보카도 잎 봉우리 파열, 떡잎과 함께 다른 잎들이 옆으로 자라기 시작함. 길이 약 24cm.
